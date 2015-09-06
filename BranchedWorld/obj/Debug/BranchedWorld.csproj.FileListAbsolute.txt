@@ -1,0 +1,6 @@
+C:\Users\MasterJain\Documents\GitHub\Babysteps\BranchedWorld\bin\Debug\BranchedWorld.exe.config
+C:\Users\MasterJain\Documents\GitHub\Babysteps\BranchedWorld\bin\Debug\BranchedWorld.exe
+C:\Users\MasterJain\Documents\GitHub\Babysteps\BranchedWorld\bin\Debug\BranchedWorld.pdb
+C:\Users\MasterJain\Documents\GitHub\Babysteps\BranchedWorld\obj\Debug\BranchedWorld.csprojResolveAssemblyReference.cache
+C:\Users\MasterJain\Documents\GitHub\Babysteps\BranchedWorld\obj\Debug\BranchedWorld.exe
+C:\Users\MasterJain\Documents\GitHub\Babysteps\BranchedWorld\obj\Debug\BranchedWorld.pdb
